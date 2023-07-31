@@ -1,0 +1,15 @@
+ru.tarlycheva.weather
+id cityName
+id countryName
+id loadingIndicator
+id loadingInfo
+id loadingView
+id nav_graph_weather
+id temperatureС
+id weatherFragment
+id weatherType
+layout fragment_weather
+navigation nav_graph_weather
+string country_name
+string loading_title_info
+string sochi_name

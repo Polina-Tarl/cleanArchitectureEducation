@@ -1,0 +1,4 @@
+R_DEF: Internal format may change without notice
+local
+id action_to_weather_fragment
+id action_to_welcome_fragment

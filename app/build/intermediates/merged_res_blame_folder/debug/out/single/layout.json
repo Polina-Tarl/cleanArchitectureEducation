@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "ru.tarlycheva.cleanarchitecture.app-mergeDebugResources-47:/layout/content_main.xml",
+        "source": "ru.tarlycheva.cleanarchitecture.app-main-50:/layout/content_main.xml"
+    },
+    {
+        "merged": "ru.tarlycheva.cleanarchitecture.app-mergeDebugResources-47:/layout/fragment_root.xml",
+        "source": "ru.tarlycheva.cleanarchitecture.app-main-50:/layout/fragment_root.xml"
+    },
+    {
+        "merged": "ru.tarlycheva.cleanarchitecture.app-mergeDebugResources-47:/layout/activity_main.xml",
+        "source": "ru.tarlycheva.cleanarchitecture.app-main-50:/layout/activity_main.xml"
+    }
+]
