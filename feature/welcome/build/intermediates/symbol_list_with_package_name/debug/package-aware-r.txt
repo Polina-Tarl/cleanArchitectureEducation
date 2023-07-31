@@ -1,0 +1,8 @@
+ru.tarlycheva.welcome
+id button
+id nav_graph_welcome
+id welcomeFragment
+layout fragment_welcome
+navigation nav_graph_welcome
+string button_text
+string hello

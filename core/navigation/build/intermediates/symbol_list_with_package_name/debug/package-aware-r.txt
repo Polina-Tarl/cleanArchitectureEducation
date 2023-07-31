@@ -1,0 +1,3 @@
+ru.tarlycheva.navigation
+id action_to_weather_fragment
+id action_to_welcome_fragment
