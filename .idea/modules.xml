@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/CleanArchitecture.iml" filepath="$PROJECT_DIR$/.idea/modules/CleanArchitecture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CleanArchitecture.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CleanArchitecture.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CleanArchitecture.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CleanArchitecture.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CleanArchitecture.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CleanArchitecture.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/CleanArchitecture.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/CleanArchitecture.app.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CleanArchitecture.core.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CleanArchitecture.core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CleanArchitecture.core.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CleanArchitecture.core.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CleanArchitecture.core.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CleanArchitecture.core.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/navigation/CleanArchitecture.core.navigation.iml" filepath="$PROJECT_DIR$/.idea/modules/core/navigation/CleanArchitecture.core.navigation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/navigation/CleanArchitecture.core.navigation.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/navigation/CleanArchitecture.core.navigation.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/navigation/CleanArchitecture.core.navigation.main.iml" filepath="$PROJECT_DIR$/.idea/modules/core/navigation/CleanArchitecture.core.navigation.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/navigation/CleanArchitecture.core.navigation.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/navigation/CleanArchitecture.core.navigation.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/core/CleanArchitecture.core.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/core/CleanArchitecture.core.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature/CleanArchitecture.feature.iml" filepath="$PROJECT_DIR$/.idea/modules/feature/CleanArchitecture.feature.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature/weather/CleanArchitecture.feature.weather.iml" filepath="$PROJECT_DIR$/.idea/modules/feature/weather/CleanArchitecture.feature.weather.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature/weather/CleanArchitecture.feature.weather.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/feature/weather/CleanArchitecture.feature.weather.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature/weather/CleanArchitecture.feature.weather.main.iml" filepath="$PROJECT_DIR$/.idea/modules/feature/weather/CleanArchitecture.feature.weather.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature/weather/CleanArchitecture.feature.weather.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/feature/weather/CleanArchitecture.feature.weather.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature/welcome/CleanArchitecture.feature.welcome.iml" filepath="$PROJECT_DIR$/.idea/modules/feature/welcome/CleanArchitecture.feature.welcome.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature/welcome/CleanArchitecture.feature.welcome.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/feature/welcome/CleanArchitecture.feature.welcome.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature/welcome/CleanArchitecture.feature.welcome.main.iml" filepath="$PROJECT_DIR$/.idea/modules/feature/welcome/CleanArchitecture.feature.welcome.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/feature/welcome/CleanArchitecture.feature.welcome.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/feature/welcome/CleanArchitecture.feature.welcome.unitTest.iml" />
+    </modules>
+  </component>
+</project>
